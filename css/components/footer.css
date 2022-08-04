@@ -1,0 +1,31 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  padding: 60px;
+  background-color: #303030;
+  height: 200px;
+  margin-top: 16px;
+}
+
+
+.footer i{
+  color: #FFCB77;
+}
+.footer i:hover{
+  color: #e9be7a;
+}
+
+.footer .links{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+  width: 200px
+}
+
+.footer p{
+  color: grey
+}
